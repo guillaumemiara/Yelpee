@@ -32,10 +32,10 @@ def interpret_search(search,url):
 URL = 'http://api.yelp.com/v2/search?term=' + term + '&location=' + loc + '&limit=' + lim 
 
 
-api_key = 'bTXZIkHA_DtxSE4R1bcG1Q'
-api_secret = 'fOuklacZeOx01dPf06-WHTn0OMA'
-access_token_key = 'VDpeB8dPAaXN8ELUPbJu7HKxKIexkKFk'
-access_token_secret = 'ie3DqTSkPrjwUx3sVjCAi27ieho'
+api_key = ''
+api_secret = ''
+access_token_key = ''
+access_token_secret = ''
 
 _debug = 0
 
